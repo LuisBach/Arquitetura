@@ -3,6 +3,7 @@ Projeto de arquitetura web em .NET(ainda em construção) utilizando WebApi, Ent
 
 # Especificações
 Até o momento, o projeto está utilizando:
+ - .NET Framework 4.6.1
  - ASP.NET Web Api 2
  - Autenticação JWT
  - OWIN
