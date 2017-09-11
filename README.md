@@ -7,7 +7,7 @@ Até o momento, o projeto está utilizando:
  - Autenticação JWT
  - OWIN
  - OAuth 2
- - Separação entre api de autenticação e api de recursos
+ - Separação entre api de autorização e api de recursos
  - Simple Injector
  - Conceitos de OOP, DDD E TDD
  - moq e xUnit para testes.
